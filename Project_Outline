@@ -1,0 +1,36 @@
+DATA 422 Group Project
+
+Dates:
+  Final 23/10/22 1:00 PM
+
+Goals:
+  identify interesting data sources to work on.
+  wrangle the data sources into a suitable target data model.
+  present the data to a larger audience.
+  exhibit that you can apply what we learnt in the class.
+
+Deliverable:
+  Deliver a compressed folder (a zipped folder) containing:
+    A project report that clearly describes:
+        what data sources you used.
+        why you chose those data sources.
+        what target you chose (i.e., what is the intended use of the data, ...).
+        what difficulties you had to overcome to wrangle the data sources into the target data model.
+        what techniques you did use.
+        what you managed to achieve and what you failed to do.
+    A project diary: take detailed notes of who-did-what in a text file, even when working alone.
+    Slides or any other material for the data presentation.
+    Jupyter notebooks with all the code you wrote to do the various wrangling tasks, well documented and commented.
+      Also include a document explaining how the notebooks are linked (i.e., in which sequence should we run the notebooks to reproduce your analysis, what do they perform, ...)
+    The data you produced, or a link to access the data you produced, and all the relevant documentation for us to access and understand the data.
+  All documents must be either in .pdf, markdown or jupyter notebooks; absolutely no word documents or similar proprietary formats.
+
+Marks:
+  The group project is worth 50% of the final course grade:
+    Project report: 15 marks (1 for writing, 1 for visualization, 1 for clearness in the report, 5 for suitability of the target data model, 7 for depth and extension of the project).
+    Project diary: 5 marks (2 for detail, 2 for presentation, and 1 for rigorous keeping).
+    Presentation material: 10 marks (presentation are evaluated separetely).
+    Code Notebooks: 15 marks (10 for code quality and skills, 5 for documentation quality).
+    Final Data and Documentation: 5 marks (2 for the data availability, 3 for the quality of documentation).
+  Bonus points may be given for use of github or other special efforts.
+  Some Julia code is required to get full marks for the code notebooks and the depth and extension of the project.
