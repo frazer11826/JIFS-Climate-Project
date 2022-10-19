@@ -1,4 +1,4 @@
-Year,Region,Average_Precipitation (mm),Average_Temperature (°C),Average_Windspeed (kn)
+Year,Region,Average_Precipitation(mm),Average_Temperature(°C),Average_Windgusts(kn)
 2014,Auckland,1017.90,15.66,47.24
 2014,Bay of Plenty,1098.80,14.11,39.76
 2014,Canterbury, 575.23,10.30,40.03
