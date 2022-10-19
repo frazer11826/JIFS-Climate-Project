@@ -1,4 +1,4 @@
-"Region","Year","Earthquake_Numbers","Earthquake_Average_Magnitude(4+)","Internal_Emigration","Internal_Immigration","Net_Internal_Immigration","Average_Precipitation(mm)","Average_Temperature(°C)","Average_Windgusts(kn)"
+"Region","Year","Earthquake_Numbers","Earthquake_Average_Magnitude_4+","Internal_Emigration","Internal_Immigration","Net_Internal_Immigration","Average_Precipitation_mm","Average_Temperature_°C","Average_Windgusts_kn"
 "Bay of Plenty",2014,7,4.349857944285715,20613,19689,-924,1098.8,14.11,39.76
 "Bay of Plenty",2015,2,4.1654543375,23820,22446,-1374,953.8,13.97,38.06
 "Bay of Plenty",2016,6,4.5110420175,25836,23298,-2538,1287.65,14.72,38.99
