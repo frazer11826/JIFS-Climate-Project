@@ -19,11 +19,11 @@ Initial:
   - Input: 
   - Output: Earthquake_data.csv
 - Migration
-  - Input: 
+  - Input: internal_migration.csv
   - Output: Migration_data.csv
-- Weather
-  - Input: Raw_Rain.csv, Raw_Temp.csv, Raw_Wind.csv, Sites_df_v2
-  - Output: Weather_data.csv, Sites_df
+- Weather (runs in tandem with NZRegions_Scraped)
+  - Input: Raw_Rain.csv, Raw_Temp.csv, Raw_Wind.csv, Sites_df_v2.csv
+  - Output: Weather_data.csv, Sites_df.csv
 - Sea_Rise
   - Input: 
   - Output: 
