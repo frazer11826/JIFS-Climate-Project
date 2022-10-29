@@ -20,10 +20,10 @@ Initial:
   - Output: Earthquake_data.csv
 - Migration
   - Input: 
-  - Output: 
+  - Output: Migration_data.csv
 - Weather
-  - Input: 
-  - Output: 
+  - Input: Raw_Rain.csv, Raw_Temp.csv, Raw_Wind.csv
+  - Output: Weather_data.csv
 - Sea_Rise
   - Input: 
   - Output: 
@@ -37,8 +37,8 @@ Supplementery:
 Final:
 
 - Final_Dataset
-  - Input: 
-  - Output: 
+  - Input: Earthquake_data.csv, Migration_data.csv, Weather_data.csv
+  - Output: Full_data.csv, Full_data_clean.csv
 - Plots
-  - Input: 
+  - Input: Full_data_clean.csv
   - Output: 
