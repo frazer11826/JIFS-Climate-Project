@@ -33,6 +33,9 @@ Supplementery:
 - NZRegions_Scraped (runs in tandem with Weather)
   - Input: Sites_df
   - Output: Sites_df_v2, Region_list
+- Earthquake_Animated_GIF 
+  - Input: shp
+  - Output: 1 x png plot of earthquakes (allquakesNZ2014-2017.png) and 3 x Animated GIFs (earthquakes2014to2017.gif, earthquakes2014to2017_overmag4.gif, earthquakes2014to2017_overmag4SLOW.gif)
 
 Final:
 
