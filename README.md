@@ -15,7 +15,9 @@ The second dataset is for searise in these regions covering predictions for a ra
 
 Initial:
 
-- Earthquake (depends on shp)
+- Earthquake
+  - Input: 
+  - Output:
 - Migration (depends on )
 - Weather (depends on )
 - Sea_Rise (depends on )
