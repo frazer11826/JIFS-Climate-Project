@@ -37,7 +37,7 @@ Supplementery:
 Final:
 
 - Final_Dataset
-  - Input: Earthquake_data.csv, Migration_data.csv, Weather_data.csv
+  - Input: Earthquake_data.csv, Migration_data.csv, Weather_data.csv, Region_list.csv
   - Output: Full_data.csv, Full_data_clean.csv
 - Plots
   - Input: Full_data_clean.csv
