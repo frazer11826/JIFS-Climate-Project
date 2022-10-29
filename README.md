@@ -22,15 +22,15 @@ Initial:
   - Input: 
   - Output: Migration_data.csv
 - Weather
-  - Input: Raw_Rain.csv, Raw_Temp.csv, Raw_Wind.csv
-  - Output: Weather_data.csv
+  - Input: Raw_Rain.csv, Raw_Temp.csv, Raw_Wind.csv, Sites_df_v2
+  - Output: Weather_data.csv, Sites_df
 - Sea_Rise
   - Input: 
   - Output: 
 
 Supplementery:
 
-- NZRegions_Scraped
+- NZRegions_Scraped (runs in tandem with Weather)
   - Input: Sites_df
   - Output: Sites_df_v2, Region_list
 
