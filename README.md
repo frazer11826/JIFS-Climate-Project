@@ -31,8 +31,8 @@ Initial:
 Supplementery:
 
 - NZRegions_Scraped
-  - Input: 
-  - Output: 
+  - Input: Sites_df
+  - Output: Sites_df_v2, Region_list
 
 Final:
 
