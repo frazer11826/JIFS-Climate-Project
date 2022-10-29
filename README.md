@@ -16,7 +16,7 @@ The second dataset is for searise in these regions covering predictions for a ra
 Initial:
 
 - Earthquake
-  - Input: 
+  - Input: shp
   - Output: Earthquake_data.csv
 - Migration
   - Input: internal_migration.csv
