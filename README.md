@@ -18,15 +18,27 @@ Initial:
 - Earthquake
   - Input: 
   - Output: Earthquake_data.csv
-- Migration (depends on )
-- Weather (depends on )
-- Sea_Rise (depends on )
+- Migration
+  - Input: 
+  - Output: 
+- Weather
+  - Input: 
+  - Output: 
+- Sea_Rise
+  - Input: 
+  - Output: 
 
 Supplementery:
 
 - NZRegions_Scraped
+  - Input: 
+  - Output: 
 
 Final:
 
 - Final_Dataset
+  - Input: 
+  - Output: 
 - Plots
+  - Input: 
+  - Output: 
