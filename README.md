@@ -25,8 +25,8 @@ Initial:
   - Input: Raw_Rain.csv, Raw_Temp.csv, Raw_Wind.csv, Sites_df_v2.csv
   - Output: Weather_data.csv, Sites_df.csv
 - Sea_Rise
-  - Input: 
-  - Output: 
+  - Input: Regional Searise Data
+  - Output: NZ_searise_predictions_northland_region.csv, NZ_searise_predictions_southland_region.csv, Final_Clean_Searise.csv
 
 Supplementery:
 
